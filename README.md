@@ -2,7 +2,7 @@
 
 <b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b>Microcontroller 8051
+<b> Lab | <b>8051 Microcontroller and Application Lab
 <b> Experiment|     <b> 1. (RIC 651) Write a program to generate 10 KHz square wave using 8051.
 
 <h5> About the Lab (Objective) : </h5>
