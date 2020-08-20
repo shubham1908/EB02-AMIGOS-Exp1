@@ -56,8 +56,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO1 | Student will write the program instructions and observe the output. | 1. What should be the ontime for 10kHz square wave? <br> A. 20 microseconds <br> B. 50 mseconds <br> C. 10 meseconds <br> <strong>D. 50 microseconds </strong> <br> <br>2. What is the dutycycle of square wave? <br> <strong>A. 50 %</strong> <br> B. 70 % <br> C. 30 % <br> D. 100 % <br> 
-2.| LO1 | Student will write the program instructions and observe the output. | 1. What should be the ontime for 10kHz square wave? <br> A. 20 microseconds <br> B. 50 mseconds <br> C. 10 meseconds <br> <strong>D. 50 microseconds </strong> <br> <br>2. What is the dutycycle of square wave? <br> <strong>A. 50 %</strong> <br> B. 70 % <br> C. 30 % <br> D. 100 % <br> 
+1.| LO1 | Student will write the program instructions and observe the output. | 1. What should be the ontime for 10kHz square wave? <br> A. 20 microseconds <br> B. 50 mseconds <br> C. 10 mseconds <br> <strong>D. 50 microseconds </strong> <br> <br>2. What is the dutycycle of square wave? <br> <strong>A. 50 %</strong> <br> B. 70 % <br> C. 30 % <br> D. 100 % <br> 
+2.| LO1 | Student will write the program instructions and observe the output. | 1. What should be the ontime for 10kHz square wave? <br> A. 20 microseconds <br> B. 50 mseconds <br> C. 10 mseconds <br> <strong>D. 50 microseconds </strong> <br> <br>2. What is the dutycycle of square wave? <br> <strong>A. 50 %</strong> <br> B. 70 % <br> C. 30 % <br> D. 100 % <br> 
 
 
 <div align="right">
