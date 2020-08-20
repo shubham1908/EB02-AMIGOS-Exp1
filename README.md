@@ -60,7 +60,3 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 3 | Neharika Saxena | Student | Information Technology | BIET, Jhansi | imneharika11@gmail.com
 4 | Ruchika Mishra | Student | Information Technology | BIET, Jhansi | ruchika6254@gmail.com
 5 | Shubham Gupta | Student | Information Technology | BIET, Jhansi | shubham1908gupta@gmail.com
-
-
-<br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
