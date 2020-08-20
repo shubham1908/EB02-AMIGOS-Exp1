@@ -1,10 +1,4 @@
 ## Pedagogy (Round 1)
-<p align="center">
-
-<br>
-<br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
-</p>
 
 <b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
