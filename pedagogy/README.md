@@ -1,16 +1,15 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
 <b> Experiment ABCDEF Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> 8051 Microcontroller and Application Lab
+<b> Experiment|     <b> 1. (RIC 651) Write a program to generate 10 KHz square wave using 8051.
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,18 +20,18 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Reinforce theoretical concept- re-registering concepts learnt previously
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-
+1.| User will be able to develop the program in assembly language of 8051 for specific task or application Microcontroller | 3 | Develop
+2.| User will be able to execute the program | 2 | Execute
+3.| User will be able to execute the program in single instruction execution | 3 | Execute
+4.| User will be able to point out the errors in Instruction | 4 | Analyze
+4.| User will be able To check the output of the execution | 4 | Check
 
 <br/>
 <div align="right">
@@ -43,12 +42,11 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :     Expository
+###### Assessment Method: Formative assessment
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<b>Description: </b> As it is known that square wave has equal ontime and offtime, also to generate the ontime that is logic 1 has to be outputted for particular duration ( that is duration 1/20 Khz), and logic 0 for offtime. Also we are aware of  instruction set of Microcontroller 8051. So instructional strategy is Expository and it is formative assessment</u>
 <br>
- Brief description as per handout
 
 <br/>
 <div align="right">
@@ -60,23 +58,15 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="AQ"></a>
 #### 4. Task & Assessment Questions:
 
-Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
-<br>
+
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| LO1 | Student will wtite the program instructions and observe the output. | 1. What should be the ontime for 10kHz square wave? <br> A. 20 microseconds <br> B. 50 mseconds <br> C. 10 meseconds <br> <b> D. 50 microseconds </b> <br> <br>2. What is the dutycycle of square wave? <br> <b>A. 50 %</b> <br> B. 70 % <br> C. 30 % <br> D. 100 % <br> 
+2.| LO1 | Student will wtite the program instructions and observe the output. | 1. What should be the ontime for 10kHz square wave? <br> A. 20 microseconds <br> B. 50 mseconds <br> C. 10 meseconds <br> <b> D. 50 microseconds </b> <br> <br>2. What is the dutycycle of square wave? <br> <b>A. 50 %</b> <br> B. 70 % <br> C. 30 % <br> D. 100 % <br> 
 
 
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
 
- <br>
-
- <u> You can add additional TASKS & Assessment Questions <u>
-<br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -90,7 +80,7 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Student will enter First instruction | Simulator should complement the status of Port Pin 1.0 for Instruction CPL P1.0 5 v line or logic 1 status or High level should be observed with first time complement and it should remain till it changes. | To observe logic 1 (high) level/signal
+2.| Student will enter Second instruction | For instruction ACALL DELAY It should provide the delay of ontime/offtime i.e. 50 microseconds  | To apply the delay of 50 microsecond for high level(logic 1 signal)
+3.| Student will enter Third instruction | For Instruction SJMP SQWAVE, it should continue from step 1 | Repeat above process
+4.| Student will observe the output | Observe the waveform at port pin 1.0 | Observe the output
