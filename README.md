@@ -2,36 +2,24 @@
 
 <b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b>8051 Microcontroller and Application Lab
-<b> Experiment|     <b> 1. (RIC 651) Write a program to generate 10 KHz square wave using 8051.
+<b> Lab | <b>Microcontroller 8051
+<b> Experiment|     <b> 1. Write a program to generate 10 KHz square wave using 8051.
 
 <h5> About the Lab (Objective) : </h5>
 
-Students should be able to write the assembly language code of 8051 Microcontroller and should be able to check it's results after execution. Following are the objectives:
-1. To be able to develop the program in assembly language of 8051 for specific task or application Microcontroller
-2. To be able to execute the program
-3. To be able to execute the program in single instruction execution
-4. To be able to point out the errors in Instruction
-5. To check the output of the execution
+User should be able to write the assembly language code of 8051 Microcontroller and should be able to check it's results after execution. User should be able to understand the functioning of simulator to write the assembly language program of 8051 for given task. User should be able to apply the suitable input and observe the output by understanding functioning of assembly language program. 8051 microcontroller has four input output ports. User should be able to use these ports for the application program.
 
 <h5> About the Experiment : </h5>
 
-To generate the square wave with 8051 Microcontroller, following steps are followed
-1. Select any port pin where square is to be generated. Here port 1.0 pin is selected
-2. Depending upon crystal frequency , number of count to be used in delay program Instructions are calculated. Here crystal frequency is assumed 12 MHz. So each count is of 1 microsecond
-3. 10 khz square wave means ontime plus off time is 100 microseconds. That is ontime 50 microseconds and offtime 50 microsecond
-4. But for simulation square wave is observed as LED ON OFF, so 10 khz will not work
-5. For ontime period port 1.0 pin shoud be high
-6. For offtime period port 1.0 pin should be low
-7. This sequence should be continued
+It is required to generate the square wave with 8051 Microcontroller , First user has to decide the port pin where square wave is to be generated. Here port 1.0 pin is selected.Depending upon crystal frequency , number of count to be used in delay program Instructions are calculated. Here crystal frequency is assumed 12 MHz. So each count is of 1 microsecond. 10 khz square wave means ontime plus off time is 100 microseconds. That is ontime 50 microseconds and offtime 50 microsecond. To generate these timings, a counter/timer is simulated which will work according to delay required and should have facility to change the value of delay to generate the square wave of different frequencies. To observe this output ,a CRO is to be connected at the port pin 1.0. First the Port pin 1.0 is complemented so whatever is available on port pin will be inverted. That is logic 0 woill become logic 1 and Logic 1 will become logic 0. Then timer will work for 50 microseconds. Because the port pins are latched for 50 microseconds logic level let's say 1 will remain on port pin 1.0. Then it is complemented and again the timer of same count is run. Now logic 0 will appear on port pin 1.0 for 50 microseconds and the process is repeated to generate the continuous square wave. This waveform is observed on CRO.
 
 <h5> Target Audience : </h5>
 
-This experiment is useful for the students as well as the faculties who are involved in teaching-learning process of the course in Microcontroller-8051.
+This experiment is useful for the students as well as the faculty members who are involved in teaching-learning process of the course in Microcontroller-8051.
 
 <h5> Course Alignment : </h5>
 
-Microcontroller 8051 (RIC 651)
+Microcontroller 8051 for Instrumentation Engineering, Microprocessor and Microcontroller Lab for Electronics and Communication Engineering as per new third year curriculum of AKTU.
 
 <h5> Universities Mapped : </h5>
 
