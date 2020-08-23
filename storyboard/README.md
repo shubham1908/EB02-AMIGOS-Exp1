@@ -47,7 +47,7 @@ frequency= 1/(2 * Delay)
 
 ### 3. Flowchart 4
 
-![Flowchart](storyboard/flowchart/flowchart.png?raw=true "Flow Chart")
+![Flowchart](flowchart/flowchart.png?raw=true "Flow Chart")
 
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
