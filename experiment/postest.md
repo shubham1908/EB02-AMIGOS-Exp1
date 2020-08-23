@@ -1,6 +1,6 @@
 ## Post test
 
-1. Which line is responsible for switching of square wave between high and low?
+1. Which line is responsible for switching of square wave between high and low?<br>
 A. SJMP squarewave<br>
 <b>B. CPL P1.0</b><br>
 C. ACALL Delay<br>
