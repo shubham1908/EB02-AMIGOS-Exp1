@@ -13,8 +13,10 @@ Code to be used:
 The delay program guides us to a timer which runs for the required amount of time and once the delay program finishes, the pointer gets back and moves to the next statement which guides it to the top of the program and the cycle continues.
 
 ### Procedure
-The user inputs the delay he/she wants  and sees a squarewave corresponding to that delay.If the user wants to give the frequency , then he/she must find half of the inverse of frequency.<br>
-<code><pre>DELAY = 1/(2 * FREQUENCY)</code></pre>
+The user inputs the delay he/she wants  and sees a squarewave corresponding to that delay.If the user wants to give the frequency , then he/she must find half of the inverse of frequency.
+
+<pre><code>DELAY = 1/(2 * FREQUENCY)
+</code></pre>
 
 ### Pre Test
 1. What is the ration of on-time and off-time in a square wave?<br>
