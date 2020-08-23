@@ -22,26 +22,26 @@ The user inputs the delay he/she wants  and sees a squarewave corresponding to t
 1. What is the ration of on-time and off-time in a square wave?<br>
 A. 1:2<br>
 B. 2:1<br>
-C. 1:1<br>
+<b>C. 1:1</b><br>
 D. 1:4<br><br>
 
 2. What is the meaning of SJMP?<br>
 A. Small Jump<br>
-B. Shot Jump<br>
+<b>B. Shot Jump</b><br>
 C. Jump<br>
 D. None<br>
 
 ### Post Test
 1. Which line is responsible for switching of square wave between high and low?<br>
 A. SJMP squarewave<br>
-B. CPL P1.0<br>
+,b>B. CPL P1.0</b><br>
 C. ACALL Delay<br>
 D. None<br>
 
 2. Which line is responsible for the horizontal lines seen on the graph?<br>
 A. SJMP squarewave<br>
 B. CPL P1.0<br>
-C. ACALL Delay<br>
+<b>C. ACALL Delay</b><br>
 D. None<br>
 
 ### References
