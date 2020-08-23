@@ -2,8 +2,8 @@
 
 <b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b>Microcontroller 8051
-<b> Experiment|     <b> 1. Write a program to generate 10 KHz square wave using 8051.
+<b> Lab | <b>8051 Microcontroller and Application Lab
+<b> Experiment|     <b>1. Write a program to generate 10 KHz square wave using 8051.
 
 <h5> About the Lab (Objective) : </h5>
 
@@ -48,3 +48,4 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 3 | Neharika Saxena | Student | Information Technology | BIET, Jhansi | imneharika11@gmail.com
 4 | Ruchika Mishra | Student | Information Technology | BIET, Jhansi | ruchika6254@gmail.com
 5 | Shubham Gupta | Student | Information Technology | BIET, Jhansi | shubham1908gupta@gmail.com
+6 | Sameer Ahmad | Student | Computer Science & Engineering | BIET, Jhansi | sameerahmad990@gmail.com
