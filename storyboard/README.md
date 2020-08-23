@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment 1: Generating a square waveform
+Experiment 1: Write a program to generate 10 KHz square wave using 8051.
 
 ### 1. Story Outline:
 
@@ -39,9 +39,10 @@ The simulation requires less than a minute to complete and the results are spont
 
 ##### 2.7 Equations/formulas: NA
 Only one equation has been used which is a relation between the delay and frequency.
-Delay=1/(2*frequency),
-i.e., delay is half times the inverse of frequency. So,
-frequency= 1/(2*Delay)
+<br><br>
+Delay=1/(2 * frequency),<br>
+i.e., delay is half times the inverse of frequency. So,<br>
+frequency= 1/(2 * Delay)
 
 
 ### 3. Flowchart 4
