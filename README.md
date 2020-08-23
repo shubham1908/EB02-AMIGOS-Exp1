@@ -48,4 +48,3 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 3 | Neharika Saxena | Student | Information Technology | BIET, Jhansi | imneharika11@gmail.com
 4 | Ruchika Mishra | Student | Information Technology | BIET, Jhansi | ruchika6254@gmail.com
 5 | Shubham Gupta | Student | Information Technology | BIET, Jhansi | shubham1908gupta@gmail.com
-6 | Sameer Ahmad | Student | Computer Science & Engineering | BIET, Jhansi | sameerahmad990@gmail.com
