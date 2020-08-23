@@ -1,40 +1,47 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment 1: Generating a square waveform
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+<p>In this experiment, we give the delay we want and get a corresponding output waveform. If we take initial value as 0 to port 1.0 then the waveform starts with a high status and vice versa since the first command we have taken complements the contents of port 1.0.</p>
+<p>The waveform remains high or low as long as the delay program runs and once the delay program is finished it comes to the next line which causes it to jump to the very first statement.</p>
+
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+We have provided the user with a set of instructions or code which get highlighted while being executed and the corresponding output can be seen on the screen. It helps in enhancing the user’s understanding of the microcontroller and it’s working.
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+When the user land on the simulator page, he can see a window showing the code. Next to it is a window showing the screen for the waveform adjacent to a pin diagram of microcontroller 8051. Above these windows is a window that inputs the value of delay and four buttons:
+1: Take initial value as 0
+2: Take initial value as 1
+3: Clear
+4: Start
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+The objective of this experiment is to give users a better understanding of microcontroller’s working and how to generate a square wave using it.
+The user has to enter the value of delay in the space provided in the simulator. Having entered a value, he has to choose wether he wants the initial value in port 1.0 to be 0 or 1 after which he can press the start button and a waveform will appear on the screen. If the user wants the waveform to vanish, he simply has to press clear.
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+The very first step is to enter the value of delay and then choose wether we want the contents of P1.0 to be 0 or 1. Then we click on the start button and obtain a waveform which can be stopped by clicking on the clear button.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+The simulator is designed to provide the user with maximum ease and hence the user will hardly face any problems while performing it. The user just has to be careful while giving the delay of the input, he has to enter only an integral value. The value of the input can be varies hence a variation in the waveform can be easily noticed.
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+The user will not get any output if he enters a non-numerical value. Also he has to choose the status of port 1.0 before pressing the start button.
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+The simulation requires less than a minute to complete and the results are spontaneous. The questions have been provided in other rounds and those questions are the very basics of performing this experiment so if the user can answer those questions then he surely will be able to build upon it.
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+Only one equation has been used which is a relation between the delay and frequency.
+Delay=1/(2*frequency),
+i.e., delay is half times the inverse of frequency. So,
+frequency= 1/(2*Delay)
 
 
 ### 3. Flowchart 4
