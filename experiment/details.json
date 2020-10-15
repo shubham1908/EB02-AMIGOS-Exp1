@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
+			"Experiment": "1. Write a program to generate 10 KHz square wave using 8051.",     
+			"Lab": "8051 Microcontroller and Application Lab",               
+			"Discipline": "Electronics and Communication Engineering",				 
 			"Technology": ""         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Satish Kumar Singh",         
+      "Institute": "Bundelkhand Institute of Engineering & Technology, Jhansi",         
+      "InstituteAcronym": "BIET"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Abhishri Dwivedi",             
+      "Institute": "Bundelkhand Institute of Engineering & Technology, Jhansi",               
+			"InstituteAcronym": "BIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Neharika Saxena",              
+      "Institute": "Bundelkhand Institute of Engineering & Technology, Jhansi",               
+			"InstituteAcronym": "BIET"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Ruchika Mishra",             
+      "Institute": "Bundelkhand Institute of Engineering & Technology, Jhansi",               
+			"InstituteAcronym": "BIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Shubham Gupta",              
+      "Institute": "Bundelkhand Institute of Engineering & Technology, Jhansi",               
+			"InstituteAcronym": "BIET"         
        }
    ]
 
