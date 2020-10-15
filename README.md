@@ -43,8 +43,7 @@ Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh, Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Shahanaz Ayub | Faculty | Electronics and Communication Engineering | BIET, Jhansi | sayub@bietjhs.ac.in
-2 | Abhishri Dwivedi | Student | Electronics and Communication Engineering | BIET, Jhansi | abhi300699@gmail.com
-3 | Neharika Saxena | Student | Information Technology | BIET, Jhansi | imneharika11@gmail.com
-4 | Ruchika Mishra | Student | Information Technology | BIET, Jhansi | ruchika6254@gmail.com
-5 | Shubham Gupta | Student | Information Technology | BIET, Jhansi | shubham1908gupta@gmail.com
+1 | Abhishri Dwivedi | Student | Electronics and Communication Engineering | BIET, Jhansi | abhi300699@gmail.com
+2 | Neharika Saxena | Student | Information Technology | BIET, Jhansi | imneharika11@gmail.com
+3 | Ruchika Mishra | Student | Information Technology | BIET, Jhansi | ruchika6254@gmail.com
+4 | Shubham Gupta | Student | Information Technology | BIET, Jhansi | shubham1908gupta@gmail.com
